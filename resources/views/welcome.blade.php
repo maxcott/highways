@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">A slightly sort of Laravel 5</div>
+                <div class="title">Vaguely Laravel x</div>
             </div>
         </div>
     </body>
